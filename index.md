@@ -26,6 +26,7 @@ knit        : slidify::knit2slides
 3. Place of Birth: Lahore, Pakistan
 4. Current Residence: United Kingdom
 5. Favourite Fiction Story: Sherlock Holmes
+6. Workplace: IBM
 
 --- .class #id
 
